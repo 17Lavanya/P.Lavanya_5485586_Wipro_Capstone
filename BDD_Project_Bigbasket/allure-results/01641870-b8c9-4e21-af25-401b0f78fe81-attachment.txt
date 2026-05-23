@@ -1,0 +1,31 @@
+2026-05-23 14:18:48,059 - INFO - ========================================
+2026-05-23 14:18:48,060 - INFO - Starting scenario: Open electronics category
+2026-05-23 14:18:48,060 - INFO - Browser fetched
+2026-05-23 14:18:48,060 - INFO - Base URL fetched
+2026-05-23 14:18:48,060 - INFO - Implicit wait fetched
+2026-05-23 14:18:48,060 - INFO - Headless mode : False
+2026-05-23 14:18:53,792 - INFO - Browser launched successfully
+2026-05-23 14:18:54,793 - INFO - Login button clicked successfully
+2026-05-23 14:18:54,795 - INFO - Login button clicked
+2026-05-23 14:18:55,436 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_login_button_20260523_141854.png
+2026-05-23 14:18:55,439 - INFO - Mobile number fetched from CSV
+2026-05-23 14:18:55,820 - INFO - Mobile number entered
+2026-05-23 14:18:56,014 - INFO - Screenshot saved at: reports/screenshots/user_enters_valid_mobile_number_from_csv_20260523_141855.png
+2026-05-23 14:18:56,196 - INFO - Continue button clicked
+2026-05-23 14:18:56,441 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_continue_button_20260523_141856.png
+2026-05-23 14:18:56,443 - INFO - Waiting for user to enter OTP manually
+2026-05-23 14:19:11,142 - INFO - OTP entered manually and Verify button is clickable
+2026-05-23 14:19:11,289 - INFO - Screenshot saved at: reports/screenshots/user_waits_for_manual_OTP_entry_20260523_141911.png
+2026-05-23 14:19:11,396 - INFO - Verify button clicked
+2026-05-23 14:19:11,609 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_verify_button_20260523_141911.png
+2026-05-23 14:19:15,446 - INFO - Element clicked successfully
+2026-05-23 14:19:15,446 - INFO - Got It popup handled
+2026-05-23 14:19:15,665 - INFO - Screenshot saved at: reports/screenshots/user_handles_got_it_popup_20260523_141915.png
+2026-05-23 14:19:17,776 - INFO - Scrolled and clicked successfully
+2026-05-23 14:19:17,776 - INFO - Shop By Category opened
+2026-05-23 14:19:18,001 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_shop_by_category_20260523_141917.png
+2026-05-23 14:19:20,138 - INFO - Scrolled and clicked successfully
+2026-05-23 14:19:20,139 - INFO - Electronics category opened
+2026-05-23 14:19:20,312 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_electronics_category_20260523_141920.png
+2026-05-23 14:19:25,332 - INFO - Electronics category opened successfully
+2026-05-23 14:19:25,456 - INFO - Screenshot saved at: reports/screenshots/electronics_category_should_be_opened_20260523_141925.png

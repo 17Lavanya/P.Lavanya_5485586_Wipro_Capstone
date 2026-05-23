@@ -1,0 +1,1086 @@
+[
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features/end_to_end.feature:3",
+      "name": "Complete electronics product checkout flow",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "When",
+          "location": "features/end_to_end.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:23"
+          },
+          "name": "user clicks on login button",
+          "result": {
+            "duration": 0.4992198944091797,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:29"
+          },
+          "name": "user enters valid mobile number from csv",
+          "result": {
+            "duration": 0.15404176712036133,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:34"
+          },
+          "name": "user clicks on continue button",
+          "result": {
+            "duration": 0.09967279434204102,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:7",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:39"
+          },
+          "name": "user waits for manual OTP entry",
+          "result": {
+            "duration": 16.80898904800415,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:8",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:52"
+          },
+          "name": "user clicks on verify button",
+          "result": {
+            "duration": 0.08544349670410156,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:87"
+          },
+          "name": "user handles got it popup",
+          "result": {
+            "duration": 3.1885135173797607,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:11",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:93"
+          },
+          "name": "user clicks on shop by category",
+          "result": {
+            "duration": 2.06721830368042,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:12",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:98"
+          },
+          "name": "user clicks on electronics category",
+          "result": {
+            "duration": 2.077263832092285,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:13",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:24"
+          },
+          "name": "user clicks on audio devices",
+          "result": {
+            "duration": 2.1033363342285156,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:14",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:39"
+          },
+          "name": "user clicks on earbuds category",
+          "result": {
+            "duration": 2.0972402095794678,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:16",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:52"
+          },
+          "name": "user adds first earbud two times",
+          "result": {
+            "duration": 23.19470238685608,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:18",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:150"
+          },
+          "name": "user clicks on brands filter",
+          "result": {
+            "duration": 4.068289756774902,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:19",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:58"
+          },
+          "name": "user selects boAt brand",
+          "result": {
+            "duration": 8.216539859771729,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:20",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:173"
+          },
+          "name": "user clicks on add button",
+          "result": {
+            "duration": 5.075972557067871,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:22",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:178"
+          },
+          "name": "user opens basket",
+          "result": {
+            "duration": 6.430261135101318,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:23",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:71"
+          },
+          "name": "user increments product quantity",
+          "result": {
+            "duration": 12.071403980255127,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/end_to_end.feature:24",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:77"
+          },
+          "name": "user clicks on checkout button",
+          "result": {
+            "duration": 18.087573289871216,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/end_to_end.feature:26",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:83"
+          },
+          "name": "checkout page should be opened",
+          "result": {
+            "duration": 0.00954580307006836,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features/end_to_end.feature:1",
+  "name": "BigBasket End To End Scenario",
+  "status": "passed",
+  "tags": []
+},
+
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features/negative.feature:3",
+      "name": "Validate invalid mobile number",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "When",
+          "location": "features/negative.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:23"
+          },
+          "name": "user clicks on login button",
+          "result": {
+            "duration": 0.41129159927368164,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/negative.feature:5",
+          "match": {
+            "arguments": [
+              {
+                "name": "mobile",
+                "value": "12121"
+              }
+            ],
+            "location": "features/steps/negative_steps.py:13"
+          },
+          "name": "user enters invalid mobile number \"12121\"",
+          "result": {
+            "duration": 0.8262133598327637,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/negative.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/negative_steps.py:19"
+          },
+          "name": "continue button should be disabled",
+          "result": {
+            "duration": 0.27942585945129395,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features/negative.feature:8",
+      "name": "Validate invalid OTP",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "When",
+          "location": "features/negative.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:23"
+          },
+          "name": "user clicks on login button",
+          "result": {
+            "duration": 0.45468664169311523,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/negative.feature:10",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:29"
+          },
+          "name": "user enters valid mobile number from csv",
+          "result": {
+            "duration": 0.2909235954284668,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/negative.feature:11",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:34"
+          },
+          "name": "user clicks on continue button",
+          "result": {
+            "duration": 0.25155019760131836,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/negative.feature:12",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/negative_steps.py:36"
+          },
+          "name": "user waits for manual invalid OTP entry",
+          "result": {
+            "duration": 6.338165521621704,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/negative.feature:13",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:52"
+          },
+          "name": "user clicks on verify button",
+          "result": {
+            "duration": 0.08715033531188965,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/negative.feature:14",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/negative_steps.py:49"
+          },
+          "name": "invalid OTP error message should be displayed",
+          "result": {
+            "duration": 8.206614017486572,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features/negative.feature:1",
+  "name": "BigBasket Negative Scenarios",
+  "status": "passed",
+  "tags": []
+},
+
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features/positive.feature:3",
+      "name": "Login with valid mobile number",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "When",
+          "location": "features/positive.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:23"
+          },
+          "name": "user clicks on login button",
+          "result": {
+            "duration": 0.40570068359375,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:29"
+          },
+          "name": "user enters valid mobile number from csv",
+          "result": {
+            "duration": 0.2721593379974365,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:34"
+          },
+          "name": "user clicks on continue button",
+          "result": {
+            "duration": 0.12674856185913086,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:7",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:39"
+          },
+          "name": "user waits for manual OTP entry",
+          "result": {
+            "duration": 15.189846277236938,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:8",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:52"
+          },
+          "name": "user clicks on verify button",
+          "result": {
+            "duration": 0.07374095916748047,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/positive.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:57"
+          },
+          "name": "user should be logged in successfully",
+          "result": {
+            "duration": 0.008330821990966797,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features/positive.feature:12",
+      "name": "Open electronics category",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "When",
+          "location": "features/positive.feature:13",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:23"
+          },
+          "name": "user clicks on login button",
+          "result": {
+            "duration": 0.39937901496887207,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:14",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:29"
+          },
+          "name": "user enters valid mobile number from csv",
+          "result": {
+            "duration": 0.2664525508880615,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:15",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:34"
+          },
+          "name": "user clicks on continue button",
+          "result": {
+            "duration": 0.12907099723815918,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:16",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:39"
+          },
+          "name": "user waits for manual OTP entry",
+          "result": {
+            "duration": 19.46883535385132,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:17",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:52"
+          },
+          "name": "user clicks on verify button",
+          "result": {
+            "duration": 0.06064748764038086,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:18",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:87"
+          },
+          "name": "user handles got it popup",
+          "result": {
+            "duration": 3.197920799255371,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:19",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:93"
+          },
+          "name": "user clicks on shop by category",
+          "result": {
+            "duration": 2.080240488052368,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:20",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:98"
+          },
+          "name": "user clicks on electronics category",
+          "result": {
+            "duration": 2.092252731323242,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/positive.feature:21",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:103"
+          },
+          "name": "electronics category should be opened",
+          "result": {
+            "duration": 5.01262092590332,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features/positive.feature:24",
+      "name": "Apply boAt brand filter",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "When",
+          "location": "features/positive.feature:25",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:23"
+          },
+          "name": "user clicks on login button",
+          "result": {
+            "duration": 0.4582505226135254,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:26",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:29"
+          },
+          "name": "user enters valid mobile number from csv",
+          "result": {
+            "duration": 0.9812273979187012,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:27",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:34"
+          },
+          "name": "user clicks on continue button",
+          "result": {
+            "duration": 0.1177675724029541,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:28",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:39"
+          },
+          "name": "user waits for manual OTP entry",
+          "result": {
+            "duration": 15.557575225830078,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:29",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:52"
+          },
+          "name": "user clicks on verify button",
+          "result": {
+            "duration": 0.06733942031860352,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:30",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:87"
+          },
+          "name": "user handles got it popup",
+          "result": {
+            "duration": 3.125037670135498,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:31",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:93"
+          },
+          "name": "user clicks on shop by category",
+          "result": {
+            "duration": 2.065255880355835,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:32",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:98"
+          },
+          "name": "user clicks on electronics category",
+          "result": {
+            "duration": 2.0917646884918213,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:33",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:135"
+          },
+          "name": "user opens audio devices from positive flow",
+          "result": {
+            "duration": 2.102842330932617,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:34",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:144"
+          },
+          "name": "user opens earbuds category from positive flow",
+          "result": {
+            "duration": 2.091575860977173,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:35",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:150"
+          },
+          "name": "user clicks on brands filter",
+          "result": {
+            "duration": 4.069950103759766,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:36",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:58"
+          },
+          "name": "user selects boAt brand",
+          "result": {
+            "duration": 8.183005809783936,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/positive.feature:37",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:165"
+          },
+          "name": "boAt brand filter should be applied successfully",
+          "result": {
+            "duration": 0.10678291320800781,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features/positive.feature:40",
+      "name": "Add product to basket",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "When",
+          "location": "features/positive.feature:41",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:23"
+          },
+          "name": "user clicks on login button",
+          "result": {
+            "duration": 0.46437788009643555,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:42",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:29"
+          },
+          "name": "user enters valid mobile number from csv",
+          "result": {
+            "duration": 0.7646563053131104,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:43",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:34"
+          },
+          "name": "user clicks on continue button",
+          "result": {
+            "duration": 0.1309189796447754,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:44",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:39"
+          },
+          "name": "user waits for manual OTP entry",
+          "result": {
+            "duration": 13.289565801620483,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:45",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:52"
+          },
+          "name": "user clicks on verify button",
+          "result": {
+            "duration": 0.07641458511352539,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:46",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:87"
+          },
+          "name": "user handles got it popup",
+          "result": {
+            "duration": 3.0800716876983643,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:47",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:93"
+          },
+          "name": "user clicks on shop by category",
+          "result": {
+            "duration": 2.0626282691955566,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:48",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:98"
+          },
+          "name": "user clicks on electronics category",
+          "result": {
+            "duration": 2.087184429168701,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:49",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:135"
+          },
+          "name": "user opens audio devices from positive flow",
+          "result": {
+            "duration": 2.1082193851470947,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:50",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:144"
+          },
+          "name": "user opens earbuds category from positive flow",
+          "result": {
+            "duration": 2.0929861068725586,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:51",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:150"
+          },
+          "name": "user clicks on brands filter",
+          "result": {
+            "duration": 4.070860862731934,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:52",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/end_to_end_steps.py:58"
+          },
+          "name": "user selects boAt brand",
+          "result": {
+            "duration": 8.192754745483398,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:53",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:173"
+          },
+          "name": "user clicks on add button",
+          "result": {
+            "duration": 5.075370788574219,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/positive.feature:54",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:178"
+          },
+          "name": "user opens basket",
+          "result": {
+            "duration": 6.354947090148926,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/positive.feature:55",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/positive_steps.py:183"
+          },
+          "name": "product should be added to basket successfully",
+          "result": {
+            "duration": 0.06283450126647949,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features/positive.feature:1",
+  "name": "BigBasket Positive Scenarios",
+  "status": "passed",
+  "tags": []
+}
+]

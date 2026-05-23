@@ -1,0 +1,49 @@
+2026-05-23 14:21:03,399 - INFO - ========================================
+2026-05-23 14:21:03,400 - INFO - Starting scenario: Add product to basket
+2026-05-23 14:21:03,402 - INFO - Browser fetched
+2026-05-23 14:21:03,402 - INFO - Base URL fetched
+2026-05-23 14:21:03,402 - INFO - Implicit wait fetched
+2026-05-23 14:21:03,402 - INFO - Headless mode : False
+2026-05-23 14:21:09,136 - INFO - Browser launched successfully
+2026-05-23 14:21:10,267 - INFO - Login button clicked successfully
+2026-05-23 14:21:10,268 - INFO - Login button clicked
+2026-05-23 14:21:10,731 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_login_button_20260523_142110.png
+2026-05-23 14:21:10,734 - INFO - Mobile number fetched from CSV
+2026-05-23 14:21:11,140 - INFO - Mobile number entered
+2026-05-23 14:21:11,363 - INFO - Screenshot saved at: reports/screenshots/user_enters_valid_mobile_number_from_csv_20260523_142111.png
+2026-05-23 14:21:11,551 - INFO - Continue button clicked
+2026-05-23 14:21:11,750 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_continue_button_20260523_142111.png
+2026-05-23 14:21:11,752 - INFO - Waiting for user to enter OTP manually
+2026-05-23 14:21:25,836 - INFO - OTP entered manually and Verify button is clickable
+2026-05-23 14:21:25,990 - INFO - Screenshot saved at: reports/screenshots/user_waits_for_manual_OTP_entry_20260523_142125.png
+2026-05-23 14:21:26,122 - INFO - Verify button clicked
+2026-05-23 14:21:26,325 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_verify_button_20260523_142126.png
+2026-05-23 14:21:31,515 - INFO - Element clicked successfully
+2026-05-23 14:21:31,516 - INFO - Got It popup handled
+2026-05-23 14:21:31,751 - INFO - Screenshot saved at: reports/screenshots/user_handles_got_it_popup_20260523_142131.png
+2026-05-23 14:21:33,859 - INFO - Scrolled and clicked successfully
+2026-05-23 14:21:33,859 - INFO - Shop By Category opened
+2026-05-23 14:21:34,065 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_shop_by_category_20260523_142133.png
+2026-05-23 14:21:36,221 - INFO - Scrolled and clicked successfully
+2026-05-23 14:21:36,221 - INFO - Electronics category opened
+2026-05-23 14:21:36,375 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_electronics_category_20260523_142136.png
+2026-05-23 14:21:38,545 - INFO - Scrolled and clicked successfully
+2026-05-23 14:21:38,545 - INFO - Audio Devices category opened
+2026-05-23 14:21:38,712 - INFO - Screenshot saved at: reports/screenshots/user_opens_audio_devices_from_positive_flow_20260523_142138.png
+2026-05-23 14:21:40,887 - INFO - Scrolled and clicked successfully
+2026-05-23 14:21:40,887 - INFO - Earbuds page opened successfully
+2026-05-23 14:21:41,057 - INFO - Screenshot saved at: reports/screenshots/user_opens_earbuds_category_from_positive_flow_20260523_142140.png
+2026-05-23 14:21:45,151 - INFO - Scrolled and clicked successfully
+2026-05-23 14:21:45,152 - INFO - Brands filter opened
+2026-05-23 14:21:45,309 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_brands_filter_20260523_142145.png
+2026-05-23 14:21:45,311 - INFO - Brand from CSV : boAt
+2026-05-23 14:21:49,697 - INFO - Scrolled and clicked successfully
+2026-05-23 14:21:49,697 - INFO - boAt brand selected
+2026-05-23 14:21:53,850 - INFO - Screenshot saved at: reports/screenshots/user_selects_boAt_brand_20260523_142153.png
+2026-05-23 14:21:58,983 - INFO - Scrolled and clicked successfully
+2026-05-23 14:21:58,983 - INFO - Product added to basket
+2026-05-23 14:21:59,209 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_add_button_20260523_142158.png
+2026-05-23 14:22:06,425 - INFO - Basket opened successfully
+2026-05-23 14:22:06,629 - INFO - Screenshot saved at: reports/screenshots/user_opens_basket_20260523_142206.png
+2026-05-23 14:22:06,773 - INFO - Product added to basket successfully
+2026-05-23 14:22:06,931 - INFO - Screenshot saved at: reports/screenshots/product_should_be_added_to_basket_successfully_20260523_142206.png

@@ -1,0 +1,514 @@
+
+<html>
+<head>
+    <title>BigBasket Automation Report</title>
+
+    <style>
+
+        body{
+            font-family: Arial;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        h1{
+            text-align: center;
+            color: #2c3e50;
+        }
+
+        .feature{
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 5px gray;
+        }
+
+        .scenario{
+            margin-top: 15px;
+            padding: 15px;
+            border-left: 5px solid #3498db;
+            background-color: #fafafa;
+        }
+
+        table{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td{
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th{
+            background-color: #3498db;
+            color: white;
+        }
+
+        .passed{
+            color: green;
+            font-weight: bold;
+        }
+
+        .failed{
+            color: red;
+            font-weight: bold;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<h1>BigBasket BDD Automation Report</h1>
+
+
+    <div class='feature'>
+        <h2>Feature: BigBasket End To End Scenario</h2>
+    
+        <div class='scenario'>
+            <h3>Scenario: Complete electronics product checkout flow</h3>
+
+            <table>
+                <tr>
+                    <th>Step</th>
+                    <th>Status</th>
+                </tr>
+        
+            <tr>
+                <td>When user clicks on login button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user enters valid mobile number from csv</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on continue button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user waits for manual OTP entry</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on verify button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user handles got it popup</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on shop by category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on electronics category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on audio devices</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on earbuds category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user adds first earbud two times</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on brands filter</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user selects boAt brand</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on add button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user opens basket</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user increments product quantity</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on checkout button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>Then checkout page should be opened</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            </table>
+        </div>
+        </div>
+    <div class='feature'>
+        <h2>Feature: BigBasket Negative Scenarios</h2>
+    
+        <div class='scenario'>
+            <h3>Scenario: Validate invalid mobile number</h3>
+
+            <table>
+                <tr>
+                    <th>Step</th>
+                    <th>Status</th>
+                </tr>
+        
+            <tr>
+                <td>When user clicks on login button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user enters invalid mobile number "12121"</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>Then continue button should be disabled</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            </table>
+        </div>
+        
+        <div class='scenario'>
+            <h3>Scenario: Validate invalid OTP</h3>
+
+            <table>
+                <tr>
+                    <th>Step</th>
+                    <th>Status</th>
+                </tr>
+        
+            <tr>
+                <td>When user clicks on login button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user enters valid mobile number from csv</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on continue button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user waits for manual invalid OTP entry</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on verify button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>Then invalid OTP error message should be displayed</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            </table>
+        </div>
+        </div>
+    <div class='feature'>
+        <h2>Feature: BigBasket Positive Scenarios</h2>
+    
+        <div class='scenario'>
+            <h3>Scenario: Login with valid mobile number</h3>
+
+            <table>
+                <tr>
+                    <th>Step</th>
+                    <th>Status</th>
+                </tr>
+        
+            <tr>
+                <td>When user clicks on login button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user enters valid mobile number from csv</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on continue button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user waits for manual OTP entry</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on verify button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>Then user should be logged in successfully</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            </table>
+        </div>
+        
+        <div class='scenario'>
+            <h3>Scenario: Open electronics category</h3>
+
+            <table>
+                <tr>
+                    <th>Step</th>
+                    <th>Status</th>
+                </tr>
+        
+            <tr>
+                <td>When user clicks on login button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user enters valid mobile number from csv</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on continue button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user waits for manual OTP entry</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on verify button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user handles got it popup</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on shop by category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on electronics category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>Then electronics category should be opened</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            </table>
+        </div>
+        
+        <div class='scenario'>
+            <h3>Scenario: Apply boAt brand filter</h3>
+
+            <table>
+                <tr>
+                    <th>Step</th>
+                    <th>Status</th>
+                </tr>
+        
+            <tr>
+                <td>When user clicks on login button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user enters valid mobile number from csv</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on continue button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user waits for manual OTP entry</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on verify button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user handles got it popup</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on shop by category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on electronics category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user opens audio devices from positive flow</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user opens earbuds category from positive flow</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on brands filter</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user selects boAt brand</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>Then boAt brand filter should be applied successfully</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            </table>
+        </div>
+        
+        <div class='scenario'>
+            <h3>Scenario: Add product to basket</h3>
+
+            <table>
+                <tr>
+                    <th>Step</th>
+                    <th>Status</th>
+                </tr>
+        
+            <tr>
+                <td>When user clicks on login button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user enters valid mobile number from csv</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on continue button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user waits for manual OTP entry</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on verify button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user handles got it popup</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on shop by category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on electronics category</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user opens audio devices from positive flow</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user opens earbuds category from positive flow</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on brands filter</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user selects boAt brand</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user clicks on add button</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>And user opens basket</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            <tr>
+                <td>Then product should be added to basket successfully</td>
+                <td class='passed'>PASSED</td>
+            </tr>
+            
+            </table>
+        </div>
+        </div>
+</body>
+</html>

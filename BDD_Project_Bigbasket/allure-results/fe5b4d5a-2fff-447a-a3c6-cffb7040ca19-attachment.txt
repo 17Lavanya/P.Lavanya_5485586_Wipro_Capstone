@@ -1,0 +1,44 @@
+2026-05-23 14:19:28,204 - INFO - ========================================
+2026-05-23 14:19:28,204 - INFO - Starting scenario: Apply boAt brand filter
+2026-05-23 14:19:28,204 - INFO - Browser fetched
+2026-05-23 14:19:28,204 - INFO - Base URL fetched
+2026-05-23 14:19:28,204 - INFO - Implicit wait fetched
+2026-05-23 14:19:28,205 - INFO - Headless mode : False
+2026-05-23 14:19:34,051 - INFO - Browser launched successfully
+2026-05-23 14:19:34,635 - INFO - Login button clicked successfully
+2026-05-23 14:19:34,635 - INFO - Login button clicked
+2026-05-23 14:19:35,259 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_login_button_20260523_141934.png
+2026-05-23 14:19:35,262 - INFO - Mobile number fetched from CSV
+2026-05-23 14:19:35,546 - INFO - Mobile number entered
+2026-05-23 14:19:35,765 - INFO - Screenshot saved at: reports/screenshots/user_enters_valid_mobile_number_from_csv_20260523_141935.png
+2026-05-23 14:19:35,925 - INFO - Continue button clicked
+2026-05-23 14:19:36,184 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_continue_button_20260523_141935.png
+2026-05-23 14:19:36,185 - INFO - Waiting for user to enter OTP manually
+2026-05-23 14:20:32,332 - INFO - OTP entered manually and Verify button is clickable
+2026-05-23 14:20:32,510 - INFO - Screenshot saved at: reports/screenshots/user_waits_for_manual_OTP_entry_20260523_142032.png
+2026-05-23 14:20:32,606 - INFO - Verify button clicked
+2026-05-23 14:20:32,806 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_verify_button_20260523_142032.png
+2026-05-23 14:20:37,700 - INFO - Element clicked successfully
+2026-05-23 14:20:37,700 - INFO - Got It popup handled
+2026-05-23 14:20:37,911 - INFO - Screenshot saved at: reports/screenshots/user_handles_got_it_popup_20260523_142037.png
+2026-05-23 14:20:40,018 - INFO - Scrolled and clicked successfully
+2026-05-23 14:20:40,018 - INFO - Shop By Category opened
+2026-05-23 14:20:40,229 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_shop_by_category_20260523_142040.png
+2026-05-23 14:20:42,369 - INFO - Scrolled and clicked successfully
+2026-05-23 14:20:42,370 - INFO - Electronics category opened
+2026-05-23 14:20:42,553 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_electronics_category_20260523_142042.png
+2026-05-23 14:20:44,819 - INFO - Scrolled and clicked successfully
+2026-05-23 14:20:44,819 - INFO - Audio Devices category opened
+2026-05-23 14:20:45,005 - INFO - Screenshot saved at: reports/screenshots/user_opens_audio_devices_from_positive_flow_20260523_142044.png
+2026-05-23 14:20:47,194 - INFO - Scrolled and clicked successfully
+2026-05-23 14:20:47,194 - INFO - Earbuds page opened successfully
+2026-05-23 14:20:47,354 - INFO - Screenshot saved at: reports/screenshots/user_opens_earbuds_category_from_positive_flow_20260523_142047.png
+2026-05-23 14:20:51,474 - INFO - Scrolled and clicked successfully
+2026-05-23 14:20:51,474 - INFO - Brands filter opened
+2026-05-23 14:20:51,617 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_brands_filter_20260523_142051.png
+2026-05-23 14:20:51,619 - INFO - Brand from CSV : boAt
+2026-05-23 14:20:56,091 - INFO - Scrolled and clicked successfully
+2026-05-23 14:20:56,091 - INFO - boAt brand selected
+2026-05-23 14:21:00,261 - INFO - Screenshot saved at: reports/screenshots/user_selects_boAt_brand_20260523_142100.png
+2026-05-23 14:21:00,436 - INFO - boAt brand filter applied successfully
+2026-05-23 14:21:00,584 - INFO - Screenshot saved at: reports/screenshots/boAt_brand_filter_should_be_applied_successfully_20260523_142100.png

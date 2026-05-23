@@ -1,0 +1,1 @@
+{'category': 'Electronics', 'subcategory': 'Audio Devices', 'product_type': 'Earbuds', 'brand': 'boAt'}

@@ -1,0 +1,24 @@
+2026-05-23 14:17:52,716 - INFO - ========================================
+2026-05-23 14:17:52,717 - INFO - Starting scenario: Validate invalid OTP
+2026-05-23 14:17:52,717 - INFO - Browser fetched
+2026-05-23 14:17:52,717 - INFO - Base URL fetched
+2026-05-23 14:17:52,717 - INFO - Implicit wait fetched
+2026-05-23 14:17:52,717 - INFO - Headless mode : False
+2026-05-23 14:17:58,463 - INFO - Browser launched successfully
+2026-05-23 14:17:59,118 - INFO - Login button clicked successfully
+2026-05-23 14:17:59,118 - INFO - Login button clicked
+2026-05-23 14:17:59,683 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_login_button_20260523_141759.png
+2026-05-23 14:17:59,687 - INFO - Mobile number fetched from CSV
+2026-05-23 14:17:59,955 - INFO - Mobile number entered
+2026-05-23 14:18:00,174 - INFO - Screenshot saved at: reports/screenshots/user_enters_valid_mobile_number_from_csv_20260523_141759.png
+2026-05-23 14:18:00,345 - INFO - Continue button clicked
+2026-05-23 14:18:00,560 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_continue_button_20260523_141800.png
+2026-05-23 14:18:00,563 - INFO - Waiting for user to enter invalid OTP manually
+2026-05-23 14:18:09,570 - INFO - Verify button is clickable after OTP entry
+2026-05-23 14:18:09,746 - INFO - Screenshot saved at: reports/screenshots/user_waits_for_manual_invalid_OTP_entry_20260523_141809.png
+2026-05-23 14:18:09,859 - INFO - Verify button clicked
+2026-05-23 14:18:10,058 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_verify_button_20260523_141809.png
+2026-05-23 14:18:15,196 - INFO - OTP error displayed: Enter OTP
+2026-05-23 14:18:15,367 - INFO - Screenshot saved at: reports/screenshots/invalid_otp_20260523_141815.png
+2026-05-23 14:18:15,367 - INFO - Invalid OTP validation message displayed successfully
+2026-05-23 14:18:18,505 - INFO - Screenshot saved at: reports/screenshots/invalid_OTP_error_message_should_be_displayed_20260523_141818.png

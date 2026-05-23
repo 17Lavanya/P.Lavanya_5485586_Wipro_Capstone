@@ -1,0 +1,16 @@
+2026-05-23 14:17:40,592 - INFO - ========================================
+2026-05-23 14:17:40,592 - INFO - Starting scenario: Validate invalid mobile number
+2026-05-23 14:17:40,593 - INFO - Browser fetched
+2026-05-23 14:17:40,593 - INFO - Base URL fetched
+2026-05-23 14:17:40,593 - INFO - Implicit wait fetched
+2026-05-23 14:17:40,593 - INFO - Headless mode : False
+2026-05-23 14:17:47,670 - INFO - Browser launched successfully
+2026-05-23 14:17:48,816 - INFO - Login button clicked successfully
+2026-05-23 14:17:48,816 - INFO - Login button clicked
+2026-05-23 14:17:49,319 - INFO - Screenshot saved at: reports/screenshots/user_clicks_on_login_button_20260523_141748.png
+2026-05-23 14:17:49,583 - INFO - Mobile number entered
+2026-05-23 14:17:49,583 - INFO - Invalid mobile number entered: 12121
+2026-05-23 14:17:49,769 - INFO - Step screenshot skipped: [WinError 123] The filename, directory name, or volume label syntax is incorrect
+2026-05-23 14:17:50,034 - INFO - Screenshot saved at: reports/screenshots/invalid_mobile_20260523_141749.png
+2026-05-23 14:17:50,034 - INFO - Continue button is disabled as expected
+2026-05-23 14:17:50,232 - INFO - Screenshot saved at: reports/screenshots/continue_button_should_be_disabled_20260523_141750.png
