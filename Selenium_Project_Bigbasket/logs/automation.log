@@ -1,0 +1,119 @@
+2026-05-23 17:33:15,136 - INFO - Launching browser: edge
+2026-05-23 17:33:16,419 - INFO - Browser launched successfully
+2026-05-23 17:33:20,330 - INFO - BigBasket website opened
+2026-05-23 17:33:24,116 - INFO - Login button clicked
+2026-05-23 17:33:26,397 - INFO - Mobile number entered
+2026-05-23 17:33:26,726 - INFO - Continue button clicked
+2026-05-23 17:33:46,869 - INFO - Login successful
+2026-05-23 17:33:51,385 - INFO - Got It popup handled
+2026-05-23 17:33:57,525 - INFO - Shop By Category opened
+2026-05-23 17:34:07,702 - INFO - Electronics category opened
+2026-05-23 17:34:14,855 - INFO - Audio devices opened
+2026-05-23 17:34:22,028 - INFO - Earbuds section opened
+2026-05-23 17:34:36,226 - INFO - First earbud quantity increased
+2026-05-23 17:34:43,312 - INFO - Brand filter opened
+2026-05-23 17:34:49,923 - INFO - Boat brand selected
+2026-05-23 17:34:57,045 - INFO - Product added to basket
+2026-05-23 17:35:06,726 - INFO - Basket opened
+2026-05-23 17:35:13,821 - INFO - Product quantity incremented
+2026-05-23 17:35:19,899 - INFO - Checkout page opened
+2026-05-23 17:35:23,573 - INFO - Screenshot attached to Allure report
+2026-05-23 17:35:23,616 - INFO - Automation logs attached to Allure report
+2026-05-23 17:35:23,623 - INFO - Closing browser
+2026-05-23 17:35:26,521 - INFO - Browser closed successfully
+2026-05-23 17:35:26,532 - INFO - Launching browser: edge
+2026-05-23 17:35:28,739 - INFO - Browser launched successfully
+2026-05-23 17:35:32,858 - INFO - BigBasket website opened
+2026-05-23 17:35:33,655 - INFO - Login button clicked
+2026-05-23 17:35:34,309 - INFO - Invalid mobile number entered
+2026-05-23 17:35:34,336 - INFO - Verified Continue button is disabled
+2026-05-23 17:35:34,516 - INFO - Screenshot attached in Allure report: invalid_mobile
+2026-05-23 17:35:34,517 - INFO - Invalid mobile screenshot captured
+2026-05-23 17:35:34,517 - INFO - Invalid mobile test passed
+2026-05-23 17:35:34,724 - INFO - Screenshot attached to Allure report
+2026-05-23 17:35:34,762 - INFO - Automation logs attached to Allure report
+2026-05-23 17:35:34,765 - INFO - Closing browser
+2026-05-23 17:35:37,297 - INFO - Browser closed successfully
+2026-05-23 17:35:37,309 - INFO - Launching browser: edge
+2026-05-23 17:35:38,451 - INFO - Browser launched successfully
+2026-05-23 17:35:42,613 - INFO - BigBasket website opened
+2026-05-23 17:35:43,355 - INFO - Login button clicked
+2026-05-23 17:35:43,645 - INFO - Mobile number entered
+2026-05-23 17:35:44,314 - INFO - Continue button clicked
+2026-05-23 17:35:44,315 - INFO - Waiting for OTP flow (manual or system)
+2026-05-23 17:35:54,313 - INFO - Verify button clicked
+2026-05-23 17:35:54,360 - INFO - Invalid OTP error message displayed
+2026-05-23 17:35:54,627 - INFO - Screenshot attached in Allure report: invalid_otp
+2026-05-23 17:35:54,627 - INFO - Invalid OTP screenshot captured
+2026-05-23 17:35:54,627 - INFO - Invalid OTP test passed
+2026-05-23 17:35:54,816 - INFO - Screenshot attached to Allure report
+2026-05-23 17:35:54,865 - INFO - Automation logs attached to Allure report
+2026-05-23 17:35:54,868 - INFO - Closing browser
+2026-05-23 17:35:57,546 - INFO - Browser closed successfully
+2026-05-23 17:35:57,554 - INFO - Launching browser: edge
+2026-05-23 17:35:58,697 - INFO - Browser launched successfully
+2026-05-23 17:36:03,067 - INFO - BigBasket website opened
+2026-05-23 17:36:03,797 - INFO - Login button clicked
+2026-05-23 17:36:04,077 - INFO - Mobile number entered
+2026-05-23 17:36:04,700 - INFO - Continue button clicked
+2026-05-23 17:36:19,950 - INFO - Login successful
+2026-05-23 17:36:19,950 - INFO - Login test passed
+2026-05-23 17:36:20,162 - INFO - Screenshot attached to Allure report
+2026-05-23 17:36:20,192 - INFO - Automation logs attached to Allure report
+2026-05-23 17:36:20,194 - INFO - Closing browser
+2026-05-23 17:36:22,860 - INFO - Browser closed successfully
+2026-05-23 17:36:22,872 - INFO - Launching browser: edge
+2026-05-23 17:36:24,199 - INFO - Browser launched successfully
+2026-05-23 17:36:28,773 - INFO - BigBasket website opened
+2026-05-23 17:36:29,514 - INFO - Login button clicked
+2026-05-23 17:36:29,821 - INFO - Mobile number entered
+2026-05-23 17:36:30,331 - INFO - Continue button clicked
+2026-05-23 17:36:46,140 - INFO - Login successful
+2026-05-23 17:36:50,646 - INFO - Got It popup handled
+2026-05-23 17:36:54,804 - INFO - Shop By Category opened
+2026-05-23 17:37:02,975 - INFO - Electronics category opened
+2026-05-23 17:37:02,976 - INFO - Open electronics category test passed
+2026-05-23 17:37:03,316 - INFO - Screenshot attached to Allure report
+2026-05-23 17:37:03,344 - INFO - Automation logs attached to Allure report
+2026-05-23 17:37:03,345 - INFO - Closing browser
+2026-05-23 17:37:06,036 - INFO - Browser closed successfully
+2026-05-23 17:37:06,048 - INFO - Launching browser: edge
+2026-05-23 17:37:07,220 - INFO - Browser launched successfully
+2026-05-23 17:37:11,210 - INFO - BigBasket website opened
+2026-05-23 17:37:11,764 - INFO - Login button clicked
+2026-05-23 17:37:12,274 - INFO - Mobile number entered
+2026-05-23 17:37:12,877 - INFO - Continue button clicked
+2026-05-23 17:37:25,824 - INFO - Login successful
+2026-05-23 17:37:29,790 - INFO - Got It popup handled
+2026-05-23 17:37:33,924 - INFO - Shop By Category opened
+2026-05-23 17:37:42,095 - INFO - Electronics category opened
+2026-05-23 17:37:46,233 - INFO - Audio devices opened
+2026-05-23 17:37:50,387 - INFO - Earbuds section opened
+2026-05-23 17:37:54,486 - INFO - Brand filter opened
+2026-05-23 17:37:58,752 - INFO - Boat brand selected
+2026-05-23 17:37:58,753 - INFO - Apply filter test passed
+2026-05-23 17:37:58,915 - INFO - Screenshot attached to Allure report
+2026-05-23 17:37:58,949 - INFO - Automation logs attached to Allure report
+2026-05-23 17:37:58,951 - INFO - Closing browser
+2026-05-23 17:38:01,543 - INFO - Browser closed successfully
+2026-05-23 17:38:01,550 - INFO - Launching browser: edge
+2026-05-23 17:38:02,597 - INFO - Browser launched successfully
+2026-05-23 17:38:03,174 - INFO - BigBasket website opened
+2026-05-23 17:38:06,980 - INFO - Login button clicked
+2026-05-23 17:38:07,226 - INFO - Mobile number entered
+2026-05-23 17:38:07,690 - INFO - Continue button clicked
+2026-05-23 17:38:20,675 - INFO - Login successful
+2026-05-23 17:38:25,632 - INFO - Got It popup handled
+2026-05-23 17:38:29,724 - INFO - Shop By Category opened
+2026-05-23 17:38:37,872 - INFO - Electronics category opened
+2026-05-23 17:38:42,085 - INFO - Audio devices opened
+2026-05-23 17:38:46,222 - INFO - Earbuds section opened
+2026-05-23 17:38:50,320 - INFO - Brand filter opened
+2026-05-23 17:38:54,606 - INFO - Boat brand selected
+2026-05-23 17:38:58,698 - INFO - Product added to basket
+2026-05-23 17:39:05,654 - INFO - Basket opened
+2026-05-23 17:39:05,655 - INFO - Add product test passed
+2026-05-23 17:39:05,840 - INFO - Screenshot attached to Allure report
+2026-05-23 17:39:05,880 - INFO - Automation logs attached to Allure report
+2026-05-23 17:39:05,882 - INFO - Closing browser
+2026-05-23 17:39:08,402 - INFO - Browser closed successfully

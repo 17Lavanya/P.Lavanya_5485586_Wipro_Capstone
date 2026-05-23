@@ -1,0 +1,19 @@
+[32mINFO    [0m Automation:conftest.py:88 Launching browser: edge
+[32mINFO    [0m Automation:conftest.py:129 Browser launched successfully
+[32mINFO    [0m Automation:test_positive.py:23 BigBasket website opened
+[32mINFO    [0m Automation:test_positive.py:26 Login button clicked
+[32mINFO    [0m Automation:test_positive.py:29 Mobile number entered
+[32mINFO    [0m Automation:test_positive.py:32 Continue button clicked
+[32mINFO    [0m Automation:test_positive.py:37 Login successful
+[32mINFO    [0m Automation:test_positive.py:127 Got It popup handled
+[32mINFO    [0m Automation:test_positive.py:130 Shop By Category opened
+[32mINFO    [0m Automation:test_positive.py:133 Electronics category opened
+[32mINFO    [0m Automation:test_positive.py:136 Audio devices opened
+[32mINFO    [0m Automation:test_positive.py:139 Earbuds section opened
+[32mINFO    [0m Automation:test_positive.py:142 Brand filter opened
+[32mINFO    [0m Automation:test_positive.py:145 Boat brand selected
+[32mINFO    [0m Automation:test_positive.py:148 Product added to basket
+[32mINFO    [0m Automation:test_positive.py:151 Basket opened
+[32mINFO    [0m Automation:test_positive.py:153 Add product test passed
+[32mINFO    [0m Automation:conftest.py:133 Closing browser
+[32mINFO    [0m Automation:conftest.py:137 Browser closed successfully
